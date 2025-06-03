@@ -1,1 +1,1 @@
-# MayuriKhed
+# Mayuri Khed
