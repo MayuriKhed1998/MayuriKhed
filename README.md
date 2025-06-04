@@ -35,6 +35,13 @@ With expertise across SQL, Python, Power BI, Excel, and CRM platforms, I deliver
 
 ---
 
+🎓 **Certifications**
+
+- 📜 [MySQL Practitioner Certificate – Analyst Builder](https://www.analystbuilder.com/achievements/verify/1O03JZXW3D?r=8P0eiff2f2McxPNbIOciSqB6I)
+- 📜 [Google Data Analytics Certification – Skillshop](https://skillshop.credential.net/f8a67915-a944-4d88-a608-c513366755a1#acc.zTsWZLB8)
+
+---
+
 📫 **Let’s Connect**
 
 - 🔗 [LinkedIn](https://linkedin.com/in/mayurikhed)
