@@ -2,7 +2,15 @@
 
 🎯 **Data Analyst | Program Evaluator | CRM Reporting Specialist**
 
-I'm a data analyst with a background in cybersecurity and nonprofit systems, currently leading data efforts for justice initiatives at The Fortune Society. I specialize in transforming complex datasets into visual insights that guide policy and optimize program outcomes.
+🔍 Data Analyst with a strong foundation in cybersecurity and 3+ years of experience transforming raw datasets into actionable insights that drive strategic decisions, program performance, and operational efficiency.
+
+I specialize in designing end-to-end data solutions — from cleaning and validating data to building interactive dashboards and reporting pipelines. My work has improved data accuracy by 30%, reduced manual processing time by 25%, and increased stakeholder engagement through clear, data-driven storytelling.
+
+With expertise across SQL, Python, Power BI, Excel, and CRM platforms, I deliver analytical solutions that align data integrity with organizational goals. I’m passionate about process optimization, outcome measurement, and converting complex datasets into narratives that influence impact at scale.
+
+📌 **Technical Toolkit**: SQL | Python (Pandas, NumPy, Matplotlib) | Power BI | Excel | Salesforce | CaseWorthy | Tableau  
+📌 **Core Focus Areas**: Data Cleaning • KPI Reporting • CRM Optimization • Program Evaluation • Stakeholder Insights • ETL Automation
+
 
 ---
 
