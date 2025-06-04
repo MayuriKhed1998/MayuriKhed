@@ -31,7 +31,7 @@ With expertise across SQL, Python, Power BI, Excel, and CRM platforms, I deliver
 | Project | Description | Tools |
 |--------|-------------|-------|
 | [📘 Student Behaviour Observatory](https://github.com/MayuriKhed1998/Student-Behavior-Observatory-A-Detailed-Data-Analysis) | Explored the relationship between academic performance and social behavior using Python and EDA. | Python, Pandas, Seaborn |
-| [🛍️ Zara Sales Analysis](https://github.com/MayuriKhed1998/zara-sales-analysis) <br> ![Zara Report](https://github.com/MayuriKhed1998/zara-sales-analysis/blob/main/visuals/Zara%20Annual%20Report%20Image.png?raw=true) | Cleaned and analyzed retail data to uncover gender-based patterns, high-performing states, and online channel trends. Delivered findings via an interactive Excel dashboard. | Excel, Power Query, Pivot Tables |
+| [🛍️ Zara Sales Analysis]([https://github.com/MayuriKhed1998/zara-sales-analysis](https://github.com/MayuriKhed1998/Data-Analysis-Zara-Sales-Annual-Report)) <br> ![Zara Report](https://github.com/MayuriKhed1998/zara-sales-analysis/blob/main/visuals/Zara%20Annual%20Report%20Image.png?raw=true) | Cleaned and analyzed retail data to uncover gender-based patterns, high-performing states, and online channel trends. Delivered findings via an interactive Excel dashboard. | Excel, Power Query, Pivot Tables |
 
 ---
 
