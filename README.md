@@ -30,7 +30,7 @@ With expertise across SQL, Python, Power BI, Excel, and CRM platforms, I deliver
 
 | Project | Description | Tools |
 |--------|-------------|-------|
-| [📘 Student Behaviour Observatory](https://github.com/mayurikhed/student-behaviour-observatory) | Explored the relationship between academic performance and social behavior using Python and EDA. | Python, Pandas, Seaborn |
+| [📘 Student Behaviour Observatory](https://github.com/MayuriKhed1998/Student-Behavior-Observatory-A-Detailed-Data-Analysis) | Explored the relationship between academic performance and social behavior using Python and EDA. | Python, Pandas, Seaborn |
 
 ---
 
