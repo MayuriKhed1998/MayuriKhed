@@ -25,6 +25,15 @@ With expertise across SQL, Python, Power BI, Excel, and CRM platforms, I deliver
 
 ---
 
+
+### 🧰 Featured Projects
+
+| Project | Description | Tools |
+|--------|-------------|-------|
+| [📘 Student Behaviour Observatory](https://github.com/mayurikhed/student-behaviour-observatory) | Explored the relationship between academic performance and social behavior using Python and EDA. | Python, Pandas, Seaborn |
+
+---
+
 📫 **Let’s Connect**  
 🔗 [LinkedIn](https://linkedin.com/in/mayurikhed)  
 📧 Email: mayurikhed.aspirant@gmail.com
