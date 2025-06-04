@@ -1,6 +1,8 @@
 # 👋 Hi, I'm Mayuri Mallikarjun Khed
 
-🎯 **Data Analyst | Program Evaluator | CRM Reporting Specialist**
+🎯 **Data Analyst | Certified Google Data Analyst Professional | CRM Reporting Specialist**
+
+A little bit about me
 
 🔍 Data Analyst with a strong foundation in cybersecurity and 3+ years of experience transforming raw datasets into actionable insights that drive strategic decisions, program performance, and operational efficiency.
 
