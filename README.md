@@ -38,3 +38,4 @@ With expertise across SQL, Python, Power BI, Excel, and CRM platforms, I deliver
 📫 **Let’s Connect**  
 🔗 [LinkedIn](https://linkedin.com/in/mayurikhed)  
 📧 Email: mayurikhed.aspirant@gmail.com
+📞 Phone: +1 (551) 344-7265
